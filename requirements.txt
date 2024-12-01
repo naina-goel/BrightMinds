@@ -1,0 +1,7 @@
+Flask
+pillow
+opencv-python
+pandas
+matplotlib
+numpy
+unittest
